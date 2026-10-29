@@ -10,7 +10,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Accelerated-Checkout/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Accelerated-Checkout/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accelerated-Checkout?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Accelerated-Checkout/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accelerated-Checkout?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -65,9 +65,9 @@ The following hosted platforms provide accelerated checkout, universal digital w
 
 Open-source checkout infrastructure provides self-hosted payment orchestration, smart transaction routing, ledger transparency, and cart checkout simplifications. 🛠️
 
-Repos are sorted in descending order by **GitHub Star Count**:
+Repos are sorted in descending order by **GitHub Stars_Count**:
 
-| Repository & Stars | Description | Stack | License |
+| Repository & GitHub_Stars | Description | Stack | License |
 | :--- | :--- | :--- | :--- |
 | **[juspay/hyperswitch](https://github.com/juspay/hyperswitch)**<br>[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | **High-performance payment orchestration platform**. Connects to 100+ processors (Stripe, Adyen, Braintree, Checkout.com) with smart dynamic routing, automatic retries, zero processor lock-in, and PCI-compliant vaulting. 🌐 | Rust, TypeScript, React | Apache-2.0 |
 | **[medusajs/medusa](https://github.com/medusajs/medusa)**<br>[![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | **Digital commerce engine for high-growth merchants**. Fully modular architecture featuring headless checkout flows, multi-gateway payment sessions, and multi-region tax/currency calculation. ⚡ | Node.js, TypeScript | MIT |
